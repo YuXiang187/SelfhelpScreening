@@ -1,2 +1,14 @@
-# SelfhelpScreening
-Android simple SelfhelpScreening System.
+# Android 自助筛选
+
+## 介绍和使用
+
+简易的自助筛选系统，可以自定义筛选内容。
+
+按下程序主界面的任意位置可随机显示筛选池中的内容。
+
+清项指清除在主界面上显示的在当前筛选池中的选项。
+
+## 快捷键
+
+* <kbd>音量上键</kbd>：设置筛选内容
+* <kbd>音量下键</kbd>：查看筛选池
